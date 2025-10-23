@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel ="stylesheet" href ="style.css"
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+            <th>Hallticket no</th>
+            <th>Students Names</th>
+            <th>Phone Number</th>
+        </tr>
+        <tr>
+            <td>123</td>
+            <td>xv</td>
+            <td>0987</td>
+        </tr>
+        <tr>
+            <td>456</td>
+            <td>dx</td>
+            <td>654</td>
+        </tr>
+    </table>
+</body>
+</html>
